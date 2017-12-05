@@ -14,8 +14,12 @@ percobaan ini mencoba untuk mengerti GDB dan mencoba commands yang ada.
 
 breakpoint dibutuhkan peletakannya dengan cermat.
 
-![gambar1]()
+masuk gdb
+![gambar1](https://github.com/kevinsagita/GDB/blob/master/gambar/1.jpg)
 
-![gambar2]()
+coba-coba commands
+![gambar2](https://github.com/kevinsagita/GDB/blob/master/gambar/2.jpg)
 
-![gambar3]()
+![gambar3](https://github.com/kevinsagita/GDB/blob/master/gambar/3.jpg)
+
+pemeriksaan selesai dan dapat keluar dari gdb.
