@@ -23,3 +23,17 @@ coba-coba commands
 ![gambar3](https://github.com/kevinsagita/GDB/blob/master/gambar/3.jpg)
 
 pemeriksaan selesai dan dapat keluar dari gdb.
+
+
+
+progress buat assembly nya, ngelihat dari https://www.youtube.com/watch?v=wIuZajISL-E
+
+buat nampilin assembly yang ada, menggunakan "disass" for display assembly.
+nanti bakal keluar alamat dan apa saja langkah yang dipake buat menjalankan program tersebut.
+
+buat debug output (nampilin output yang ada), bisa pake "print &__".
+nanti bakal keluar alamat untuk output __ tersebut.
+
+untuk melanjutkan debugin pada assembly, bisa menggunakan "nexti". nanti bakal lanjut ke output berikutnya.
+breakpoint disini buat tau baris mana pada disass yang merupakan breakpoint yang dimaksud.
+buat liat register yang ada pake "info reg".
