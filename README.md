@@ -37,3 +37,8 @@ nanti bakal keluar alamat untuk output __ tersebut.
 untuk melanjutkan debugin pada assembly, bisa menggunakan "nexti". nanti bakal lanjut ke output berikutnya.
 breakpoint disini buat tau baris mana pada disass yang merupakan breakpoint yang dimaksud.
 buat liat register yang ada pake "info reg".
+
+
+
+untuk parsing saya belajar dari caranya gozal.. semoga benar :)
+jadi itu buat tau input kita ada di "keyword" yang dibikin apa nga, per kata nya.
